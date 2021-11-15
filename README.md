@@ -19,3 +19,14 @@ We have used django_cron to fetch videos after every 10 seconds using [Youtube D
 - Click the Schema tab
 - Right-click in the Schema list and select Create Schema
 - Give it a name and follow the prompts to create it
+
+# Screenshots
+
+### Get API
+![Get API](GET API.png)
+
+### Search API
+![Search API](SearchAPI.png)
+
+### My Sql Database
+![Database](DataBase.png)
